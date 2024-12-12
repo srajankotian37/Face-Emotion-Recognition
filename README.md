@@ -1,0 +1,1 @@
+The face emotion recognition tool can recognize your emotions in real-time using OpenCV. This is a real-time emotion recognition tool where you instantly get feedback according to your expression and emotion.
