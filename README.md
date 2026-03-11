@@ -46,7 +46,8 @@ The dashboard provides real-time visualization of emotional intensity:
 ### Real-Time Capture
 Snapshots allow you to save key emotional moments:
 ![Sample Detection](assets/sample_angry.jpg)
-*Figure: Live detection identifying an 'Angry' state.*
+![Sample Detection](assets/sample_happy.jpg)
+*Figure: Live detection identifying an 'Angry' and 'Happy' state.*
 
 ## 🧠 Emotional Intelligence Map
 | Emotion | Example Feedback Quote |
