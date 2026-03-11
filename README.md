@@ -64,7 +64,3 @@ Snapshots allow you to save key emotional moments:
 - [ ] **Snapshot Gallery**: Capture and save your high-emotion moments automatically.
 - [ ] **Custom Themes**: Nebula, Cyberpunk, and Minimalist UI themes.
 - [ ] **Advice Engine**: Providing actionable productivity or wellness advice based on detected stress levels.
-
----
-*Created with ❤️ by the Antigravity AI Assistant.*
-[id:Face-Emotion-Recognition-v2.0]
